@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\IKVMvNextRepro.csproj" />
+    <ProjectReference Include="..\..\src\IKVMvNextRepro.csproj" />
   </ItemGroup>
 
 </Project>
