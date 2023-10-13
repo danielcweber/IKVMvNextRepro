@@ -9,6 +9,7 @@
   <ItemGroup>
     <PackageReference Include="IKVM.Maven.Sdk" Version="1.6.0-pre.1" />
     <MavenReference Include="org.apache.tinkerpop:tinkergraph-gremlin" Version="3.7.0" />
+    <MavenReference Include="org.apache.tinkerpop:gremlin-driver" Version="3.7.0" />
   </ItemGroup>
 
 </Project>
